@@ -1,10 +1,10 @@
 ### Hi there, I'm [Saiteja balla](https://saiteja623.github.io)! 👋
 
-## I am a MERN stack developer  & Competetive programmer
+## I am a MERN stack developer  & Competitive programmer
 
-- I am currently learn MERN stack.
+- I am currently learning MERN stack.
 - I love creating  websites in easy and clean way
-- I enjoy  to solve coding problems.
+- I enjoy  solving coding problems.
 - 4🌟 on [Leetcode](https://leetcode.com/saiteja0413)
 
 
