@@ -11,7 +11,7 @@
 
 ## Blog
 
-- I enjoy writing articles related about web development.
+- I enjoy writing articles related to web development.
 - You can checkout my articles on [hashnode](https://saiteja0413.hashnode.dev)
 
 ### Connect with me:
