@@ -1,8 +1,8 @@
 ### Hi there, I'm [Saiteja balla](https://saiteja623.github.io)! 👋
 
-## I am a MERN stack developer  & Competitive programmer
+## I am a Java stack developer  & Competitive programmer
 
-- I am currently learning MERN stack.
+- I am currently working at Infosys as backend engineer.
 - I love creating  websites in easy and clean way
 - I enjoy  solving coding problems.
 - 4🌟 on [Leetcode](https://leetcode.com/saiteja0413)
